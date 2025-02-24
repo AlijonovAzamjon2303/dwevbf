@@ -5,3 +5,6 @@ class Person:
 
 class Worker(Person):
     pass
+
+class Teacher(Person):
+    pass
